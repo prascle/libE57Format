@@ -36,6 +36,7 @@
 #include <vector>
 
 #include "E57Exception.h"
+#include <cstdint>
 
 namespace e57
 {
